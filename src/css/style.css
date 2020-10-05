@@ -1,0 +1,11 @@
+body {background-color: white;}
+#ball {
+    position: absolute;
+    color:white;
+    left: 400px;
+    top: 450px;
+}
+
+#numbers {
+    font-size: 30px;
+}
